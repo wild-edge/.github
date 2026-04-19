@@ -20,10 +20,10 @@ The SDK runs on-device. Structured telemetry flows to the Wild Edge platform for
 
 ## SDKs
 
-| Language | Repo |
-|----------|------|
-| Python | [wildedge-python](https://github.com/wild-edge/wildedge-python) |
-| Android (Kotlin) | [wildedge-android](https://github.com/wild-edge/wildedge-android) |
+| Language | Repo | Demo |
+|----------|------|------|
+| Python | [wildedge-python](https://github.com/wild-edge/wildedge-python) | [demo-app](https://github.com/wild-edge/demo-app) |
+| Android (Kotlin) | [wildedge-android](https://github.com/wild-edge/wildedge-android) | coming soon |
 
 Open an issue in the relevant repo if you need a specific platform.
 
