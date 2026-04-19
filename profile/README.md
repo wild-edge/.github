@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="wildedge-logo-text.png" alt="Wild Edge" height="72" />
+  <img src="https://raw.githubusercontent.com/wild-edge/.github/main/profile/wildedge-logo-text.png" alt="Wild Edge" height="72" />
 </p>
 
 <p align="center">
