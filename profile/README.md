@@ -18,6 +18,8 @@ Wild Edge captures inference telemetry on edge (iOS, Android, embedded, IoT) dev
 
 The SDK runs on-device. Structured telemetry flows to the Wild Edge platform for analysis, broken down by device model, OS version, accelerator, quantization format, and thermal state.
 
+No model inputs or outputs are ever captured. Telemetry is structured metadata only: latency, confidence scores, hardware state. Designed to pass GDPR, CCPA, and enterprise data governance review.
+
 ## SDKs
 
 | Language | Repo | Demo |
