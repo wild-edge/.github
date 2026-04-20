@@ -27,7 +27,7 @@ No model inputs or outputs are ever captured. Telemetry is structured metadata o
 |----------|------|------|
 | Python | [wildedge-python](https://github.com/wild-edge/wildedge-python) | [demo-app](https://github.com/wild-edge/demo-app) |
 | Android (Kotlin) | [wildedge-android](https://github.com/wild-edge/wildedge-android) | [Examples](https://github.com/wild-edge/wildedge-android/tree/main/samples) |
-| iOS / macOS (Swift) | [wildedge-swift](https://github.com/wild-edge/wildedge-swift) | [Examples](https://github.com/wild-edge/wildedge-swift/tree/main/WildEdgeExamples) |
+| iOS / macOS (Swift) | [wildedge-swift](https://github.com/wild-edge/wildedge-swift) | [Examples](https://github.com/wild-edge/wildedge-swift/tree/main/Examples) |
 
 Need a specific platform? [Open a discussion](https://github.com/orgs/wild-edge/discussions/new/choose).
 
