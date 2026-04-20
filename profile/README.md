@@ -32,6 +32,6 @@ Need a specific platform? [Open a discussion](https://github.com/orgs/wild-edge/
 
 ## Links
 
+- 🚀 [Create a free account](https://app.wildedge.dev)
 - [Docs](https://docs.wildedge.dev): integration guides and API reference
 - [Blog](https://blog.wildedge.dev): engineering and product updates
-- [App](https://app.wildedge.dev): dashboard
