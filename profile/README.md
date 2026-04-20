@@ -9,7 +9,8 @@
 <p align="center">
   <a href="https://wildedge.dev">wildedge.dev</a> &nbsp;·&nbsp;
   <a href="https://docs.wildedge.dev">Docs</a> &nbsp;·&nbsp;
-  <a href="mailto:support@wildedge.dev">support@wildedge.dev</a>
+  <a href="https://blog.wildedge.dev">Blog</a> &nbsp;·&nbsp;
+  <a href="https://app.wildedge.dev">🚀 Create a free account</a>
 </p>
 
 ---
@@ -30,8 +31,3 @@ No model inputs or outputs are ever captured. Telemetry is structured metadata o
 
 Need a specific platform? [Open a discussion](https://github.com/orgs/wild-edge/discussions/new/choose).
 
-## Links
-
-- 🚀 [Create a free account](https://app.wildedge.dev)
-- [Docs](https://docs.wildedge.dev): integration guides and API reference
-- [Blog](https://blog.wildedge.dev): engineering and product updates
