@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wild-edge/.github/main/profile/wildedge-logo-text.png" alt="Wild Edge" height="72" />
+  <a href="https://wildedge.dev"><img src="https://raw.githubusercontent.com/wild-edge/.github/main/profile/wildedge-logo-text.png" alt="Wild Edge" height="72" /></a>
 </p>
 
 <p align="center">
@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://wildedge.dev">wildedge.dev</a> &nbsp;·&nbsp;
   <a href="https://docs.wildedge.dev">Docs</a> &nbsp;·&nbsp;
   <a href="https://blog.wildedge.dev">Blog</a> &nbsp;·&nbsp;
+  <a href="https://github.com/orgs/wild-edge/discussions">Discussions</a> &nbsp;·&nbsp;
   <a href="https://app.wildedge.dev">🚀 Create a free account</a>
 </p>
 
