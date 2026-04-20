@@ -26,12 +26,12 @@ No model inputs or outputs are ever captured. Telemetry is structured metadata o
 |----------|------|------|
 | Python | [wildedge-python](https://github.com/wild-edge/wildedge-python) | [demo-app](https://github.com/wild-edge/demo-app) |
 | Android (Kotlin) | [wildedge-android](https://github.com/wild-edge/wildedge-android) | coming soon |
+| iOS / macOS (Swift) | [wildedge-swift](https://github.com/wild-edge/wildedge-swift) | coming soon |
 
-Open an issue in the relevant repo if you need a specific platform.
+Need a specific platform? [Open a discussion](https://github.com/orgs/wild-edge/discussions/new/choose).
 
 ## Links
 
-- Protocol spec: SDK event format and ingest API (coming soon)
 - [Docs](https://docs.wildedge.dev): integration guides and API reference
 - [Blog](https://blog.wildedge.dev): engineering and product updates
 - [App](https://app.wildedge.dev): dashboard
