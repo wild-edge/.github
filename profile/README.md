@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Observability built for models.
+  Turn edge cases into training data
 </p>
 
 <p align="center">
@@ -15,11 +15,15 @@
 
 ---
 
-Wild Edge captures inference telemetry on edge (iOS, Android, embedded, IoT) devices (latency, confidence scores, drift, hardware metrics) without ever seeing raw model inputs.
+Wild Edge is an on-device ML monitoring platform. The SDK instruments inference calls and emits structured telemetry: latency, confidence scores, drift, hardware state, thermal data. No raw inputs or outputs are captured by default. Opt-in capture is available for teams that need it.
 
-The SDK runs on-device. Structured telemetry flows to the Wild Edge platform for analysis, broken down by device model, OS version, accelerator, quantization format, and thermal state.
+That telemetry feeds a full loop:
 
-No model inputs or outputs are ever captured. Telemetry is structured metadata only: latency, confidence scores, hardware state. Designed to pass GDPR, CCPA, and enterprise data governance review.
+1. **Monitor** model quality across device, OS, and accelerator
+2. **Capture** production events by confidence or outcome, attach inputs, build labeled datasets from real failures and user feedback
+3. **Retrain** faster by querying the full inference history in SQL or natural language and exporting to your pipeline
+
+Your data lands in your own object store under your own keys. Wild Edge can run inside your VPC or on-premise if you need it.
 
 ## SDKs
 
@@ -30,4 +34,3 @@ No model inputs or outputs are ever captured. Telemetry is structured metadata o
 | iOS / macOS (Swift) | [wildedge-swift](https://github.com/wild-edge/wildedge-swift) | [Examples](https://github.com/wild-edge/wildedge-swift/tree/main/Examples) |
 
 Need a specific platform? [Open a discussion](https://github.com/orgs/wild-edge/discussions/new/choose).
-
