@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Turn edge cases into training data
+  Know where your AI struggles in the real world
 </p>
 
 <p align="center">
@@ -15,13 +15,17 @@
 
 ---
 
-Wild Edge is an on-device ML monitoring platform. The SDK instruments inference calls and emits structured telemetry: latency, confidence scores, drift, hardware state, thermal data. No raw inputs or outputs are captured by default. Opt-in capture is available for teams that need it.
+See where model behavior changes across releases, runtimes, and devices. Inspect captured inputs, outputs, and feedback, then turn selected examples into datasets for evaluation and training.
 
-That telemetry feeds a full loop:
+The SDK instruments inference calls and emits structured telemetry: latency, confidence scores, drift, hardware state, thermal data, plus the feedback your users give on each result. Turn on capture and the raw inputs and outputs land next to the event that produced them.
 
-1. **Monitor** model quality across device, OS, and accelerator
-2. **Capture** production events by confidence or outcome, attach inputs, build labeled datasets from real failures and user feedback
-3. **Retrain** faster by querying the full inference history in SQL or natural language and exporting to your pipeline
+That feeds a full loop:
+
+1. **Compare** model behavior across app releases, model versions, runtimes, and device classes
+2. **Inspect** the events that went wrong, with their captured inputs, outputs, and user feedback
+3. **Build datasets** from selected examples and export them to your evaluation and training pipelines
+
+Capture is opt-in. Leave it off and the SDK sends telemetry only, never raw inputs or outputs.
 
 Your data lands in your own object store under your own keys. Wild Edge can run inside your VPC or on-premise if you need it.
 
